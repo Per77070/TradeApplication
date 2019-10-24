@@ -1,0 +1,33 @@
+[
+  {
+"Company":"Samsung",
+"Value":"320"
+},
+{
+"Company":"Microsoft",
+  "Value":"135"
+},
+{
+"Company":"BMW",
+  "Value":"182"
+},
+{
+"Company":"Michelin",
+  "Value":"38"
+},
+{
+"Company":"Lenovo",
+"Value":"65"
+},
+{
+"Company":"Apple",
+"Value":"85"
+},
+{
+"Company":"KPMG",
+"Value":"54"
+},
+  {
+    "Company": "Eon",
+    "Value": "110"
+  }]

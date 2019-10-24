@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TradeApplication</string>
+
+    <string-array name="companies">
+
+        <item>Samsung</item>
+        <item>Microsoft</item>
+        <item>BMW</item>
+        <item>Michelin</item>
+        <item>Lenovo</item>
+        <item>Apple</item>
+        <item>KPMG</item>
+        <item>Eon</item>
+    </string-array>
+
+</resources>

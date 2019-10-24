@@ -1,0 +1,4 @@
+# Referenced at /Users/Per/Downloads/TradeApplication/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:16
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /Users/Per/Downloads/TradeApplication/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:16
+-keep class androidx.multidex.MultiDexApplication { <init>(); }
